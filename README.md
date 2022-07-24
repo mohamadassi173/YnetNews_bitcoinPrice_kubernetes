@@ -1,4 +1,4 @@
-### Ynet News And Bitcoin Price With kubernetes
+### Ynet News And Bitcoin Price With kubernetes ☸️
 
 #### Kubernetes project that shows price of BitCoin and displays the latest news from Ynet:    
 ● Presents the Current BitCoin Price, And the Average Price for the last 10 minutes and stores the price in a Redis Database.  
