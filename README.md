@@ -30,6 +30,11 @@ Enable ingress addon
 ```bash
   minikube addons enable ingress
 ```
+Apply Deployment
+
+```bash
+  kubectl apply -f .
+```
 
 Start minikube tunnel
 
